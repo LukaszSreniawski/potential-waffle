@@ -1,7 +1,7 @@
 # ---------------------------------------------------------------------
 #
-# File          : ${NAME}.py
-# Created       : ${DATE} ${TIME}
+# File          : week3_q2.py
+# Created       : 04/10/2021 16:05
 # Authort       : Lukasz S.
 # Version       : v1.0.0
 # Licencing     : (C) 2021 Lukasz S.
