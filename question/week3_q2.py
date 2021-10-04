@@ -1,8 +1,13 @@
-# ----------------------------------------------------------------------
-# Week 3 Question 2 Books
+# ---------------------------------------------------------------------
 #
-# (C) 2021 Lukasz
-# ----------------------------------------------------------------------
+# File          : ${NAME}.py
+# Created       : ${DATE} ${TIME}
+# Authort       : Lukasz S.
+# Version       : v1.0.0
+# Licencing     : (C) 2021 Lukasz S.
+#
+# Description   : Week 3 question 2
+# ---------------------------------------------------------------------
 
 book_1 = "The Godfather - Mario Puzo"
 book_2 = "The Sicilian - Mario Puzo"
