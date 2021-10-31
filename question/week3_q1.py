@@ -17,12 +17,11 @@ if __name__ == '__main__':
         number = int(number)
         if (number == 3):
             break
-        print ('Do you want try again! y/n')
+        print ('Sorry - Mistake!! \nDo you want try again! y/n')
         try_again = input()
-        try_again = str(try_again)
+        try_again = str(try_again.lower())
         if (try_again == 'n'):
-            print ('you lost!')
-            quit()
-
+            print ('Thank You! Goodbye')
+            quit
     print ('You win)')
 
